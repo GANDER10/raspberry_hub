@@ -1,3 +1,3 @@
 README for development branch
 
-Added a line here.
+Removed line - dev branch
